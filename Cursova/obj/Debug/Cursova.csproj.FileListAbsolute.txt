@@ -1,0 +1,67 @@
+C:\Users\Ruslan\source\repos\Database1\Cursova\bin\Debug\Cursova.exe.config
+C:\Users\Ruslan\source\repos\Database1\Cursova\bin\Debug\Cursova.exe
+C:\Users\Ruslan\source\repos\Database1\Cursova\bin\Debug\Cursova.pdb
+C:\Users\Ruslan\source\repos\Database1\Cursova\bin\Debug\HotelLibrary.dll
+C:\Users\Ruslan\source\repos\Database1\Cursova\bin\Debug\HotelLibrary.pdb
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.Add_Client.resources
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.Form1.resources
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.Properties.Resources.resources
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.csproj.GenerateResource.cache
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.csproj.CopyComplete
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.exe
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.pdb
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.AdditionalAdd.resources
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.BookingAdd.resources
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.HotelNumberAdd.resources
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.PaymentAdd.resources
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.RoomCategoryAdd.resources
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.csprojAssemblyReference.cache
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.Form3.resources
+C:\Users\Ruslan\source\repos\Database1\Cursova\obj\Debug\Cursova.Form2.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.csprojAssemblyReference.cache
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.AdditionalAdd.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.Add_Client.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.BookingAdd.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.Form1.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.Form2.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.Form3.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.HotelNumberAdd.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.PaymentAdd.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.Properties.Resources.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.RoomCategoryAdd.resources
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.csproj.GenerateResource.cache
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.csproj.CoreCompileInputs.cache
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.exe
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.pdb
+D:\Education university\5 semester\cursova\Database1\Cursova\bin\Debug\Cursova.exe.config
+D:\Education university\5 semester\cursova\Database1\Cursova\bin\Debug\Cursova.exe
+D:\Education university\5 semester\cursova\Database1\Cursova\bin\Debug\Cursova.pdb
+D:\Education university\5 semester\cursova\Database1\Cursova\bin\Debug\HotelLibrary.dll
+D:\Education university\5 semester\cursova\Database1\Cursova\bin\Debug\HotelLibrary.pdb
+D:\Education university\5 semester\cursova\Database1\Cursova\obj\Debug\Cursova.csproj.CopyComplete
+D:\Education university\7 semester\Cursova\Database1\Cursova\bin\Debug\Cursova.exe.config
+D:\Education university\7 semester\Cursova\Database1\Cursova\bin\Debug\Cursova.exe
+D:\Education university\7 semester\Cursova\Database1\Cursova\bin\Debug\Cursova.pdb
+D:\Education university\7 semester\Cursova\Database1\Cursova\bin\Debug\HotelLibrary.dll
+D:\Education university\7 semester\Cursova\Database1\Cursova\bin\Debug\HotelLibrary.pdb
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.Form2.resources
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.Page1.resources
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.Properties.Resources.resources
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.csproj.GenerateResource.cache
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.csproj.CoreCompileInputs.cache
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.csproj.CopyComplete
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.exe
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.pdb
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.Add_Films.resources
+D:\Education university\7 semester\Cursova\Database1\Cursova\bin\Debug\Cursova.exe.manifest
+D:\Education university\7 semester\Cursova\Database1\Cursova\bin\Debug\Cursova.application
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.exe.manifest
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.application
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.csprojAssemblyReference.cache
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.Add_Age_Rating.resources
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.Add_Genre.resources
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.Add_NameRole.resources
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.Add_Rating_Film.resources
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.AddParticipant.resources
+D:\Education university\7 semester\Cursova\Database1\Cursova\obj\Debug\Cursova.Watch_info.resources

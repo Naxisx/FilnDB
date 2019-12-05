@@ -1,0 +1,40 @@
+﻿** Выделение
+     Таблицы, которые будут перестроены
+       Нет
+     Кластеризованные индексы, которые будут удалены
+       Нет
+     Кластеризованные индексы, которые будут созданы
+       Нет
+     Возможные проблемы, связанные с данными
+       Нет
+
+** Действия пользователя
+     Создать
+       [dbo].[Age_Rating] (Таблица)
+       [dbo].[Films] (Таблица)
+       [dbo].[Genre] (Таблица)
+       [dbo].[NameRole] (Таблица)
+       [dbo].[Participants] (Таблица)
+       [dbo].[Rating_FK] (Таблица)
+       [dbo].[FK_Films_ToTable] (Внешний ключ)
+       [dbo].[FK_Films_ToTable_1] (Внешний ключ)
+       [dbo].[FK_Films_ToTable_2] (Внешний ключ)
+       [dbo].[FK_Participants_ToTable] (Внешний ключ)
+       [dbo].[FK_Participants_ToTable_1] (Внешний ключ)
+       [dbo].[Age_Rating_Insert] (Процедура)
+       [dbo].[Age_Rating_Update] (Процедура)
+       [dbo].[FilmsInsert] (Процедура)
+       [dbo].[FilmsUpdate] (Процедура)
+       [dbo].[Genre_Update] (Процедура)
+       [dbo].[GenreInsert] (Процедура)
+       [dbo].[Name_of_Rating_Insert] (Процедура)
+       [dbo].[Name_of_Rating_Update] (Процедура)
+       [dbo].[NameRole_Insert] (Процедура)
+       [dbo].[NameRole_Update] (Процедура)
+       [dbo].[Participants_Insert] (Процедура)
+       [dbo].[Participants_Update] (Процедура)
+
+** Корректирующие действия
+
+Определены различные параметры сортировки для проекта и конечных баз данных. Возможны ошибки развертывания.
+

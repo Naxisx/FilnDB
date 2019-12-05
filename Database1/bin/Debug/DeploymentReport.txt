@@ -1,0 +1,41 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[AdditionalServices] (Table)
+       [dbo].[Booking] (Table)
+       [dbo].[Client] (Table)
+       [dbo].[HotelNumber] (Table)
+       [dbo].[Payment] (Table)
+       [dbo].[RoomCategory] (Table)
+       [dbo].[RoomСondition] (Table)
+       [dbo].[FK_Booking_ToTable] (Foreign Key)
+       [dbo].[FK_Booking_ToTable_1] (Foreign Key)
+       [dbo].[FK_Rooms_ToTable] (Foreign Key)
+       [dbo].[FK_Rooms_ToTable_1] (Foreign Key)
+       [dbo].[FK_RoomСondition_ToTable] (Foreign Key)
+       [dbo].[FK_RoomСondition_ToTable_1] (Foreign Key)
+       [dbo].[AdditionalServicesInsert] (Procedure)
+       [dbo].[AdditionalServicesUpdate] (Procedure)
+       [dbo].[BookingInsert] (Procedure)
+       [dbo].[BookingUpdate] (Procedure)
+       [dbo].[CategoryInsert] (Procedure)
+       [dbo].[CategoryUpdate] (Procedure)
+       [dbo].[ClientInsert] (Procedure)
+       [dbo].[ClienttUpdate] (Procedure)
+       [dbo].[HotelNumberInsert] (Procedure)
+       [dbo].[HotelNumberUpdate] (Procedure)
+       [dbo].[PaymentInsert] (Procedure)
+       [dbo].[PaymentUpdate] (Procedure)
+       [dbo].[RoomConditionInsert] (Procedure)
+       [dbo].[RoomConditionUpdate] (Procedure)
+
+** Supporting actions

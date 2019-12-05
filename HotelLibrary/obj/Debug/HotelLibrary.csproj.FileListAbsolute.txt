@@ -1,0 +1,18 @@
+C:\Users\Ruslan\source\repos\Database1\HotelLibrary\obj\Debug\HotelLibrary.csprojAssemblyReference.cache
+C:\Users\Ruslan\source\repos\Database1\HotelLibrary\obj\Debug\HotelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\Database1\HotelLibrary\bin\Debug\HotelLibrary.dll
+C:\Users\Ruslan\source\repos\Database1\HotelLibrary\bin\Debug\HotelLibrary.pdb
+C:\Users\Ruslan\source\repos\Database1\HotelLibrary\obj\Debug\HotelLibrary.dll
+C:\Users\Ruslan\source\repos\Database1\HotelLibrary\obj\Debug\HotelLibrary.pdb
+D:\Education university\5 semester\cursova\Database1\HotelLibrary\bin\Debug\HotelLibrary.dll
+D:\Education university\5 semester\cursova\Database1\HotelLibrary\bin\Debug\HotelLibrary.pdb
+D:\Education university\5 semester\cursova\Database1\HotelLibrary\obj\Debug\HotelLibrary.csprojAssemblyReference.cache
+D:\Education university\5 semester\cursova\Database1\HotelLibrary\obj\Debug\HotelLibrary.csproj.CoreCompileInputs.cache
+D:\Education university\5 semester\cursova\Database1\HotelLibrary\obj\Debug\HotelLibrary.dll
+D:\Education university\5 semester\cursova\Database1\HotelLibrary\obj\Debug\HotelLibrary.pdb
+D:\Education university\7 semester\Cursova\Database1\HotelLibrary\obj\Debug\HotelLibrary.csproj.CoreCompileInputs.cache
+D:\Education university\7 semester\Cursova\Database1\HotelLibrary\obj\Debug\HotelLibrary.dll
+D:\Education university\7 semester\Cursova\Database1\HotelLibrary\obj\Debug\HotelLibrary.pdb
+D:\Education university\7 semester\Cursova\Database1\HotelLibrary\bin\Debug\HotelLibrary.dll
+D:\Education university\7 semester\Cursova\Database1\HotelLibrary\bin\Debug\HotelLibrary.pdb
+D:\Education university\7 semester\Cursova\Database1\HotelLibrary\obj\Debug\HotelLibrary.csprojAssemblyReference.cache

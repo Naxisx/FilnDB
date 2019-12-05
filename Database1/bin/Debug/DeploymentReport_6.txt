@@ -1,0 +1,37 @@
+﻿** Выделение
+     Таблицы, которые будут перестроены
+       Нет
+     Кластеризованные индексы, которые будут удалены
+       Нет
+     Кластеризованные индексы, которые будут созданы
+       Нет
+     Возможные проблемы, связанные с данными
+       Нет
+
+** Действия пользователя
+     Создать
+       [dbo].[AdditionalServices] (Таблица)
+       [dbo].[Booking] (Таблица)
+       [dbo].[Client] (Таблица)
+       [dbo].[HotelNumber] (Таблица)
+       [dbo].[Payment] (Таблица)
+       [dbo].[RoomCategory] (Таблица)
+       [dbo].[FK_Booking_ToTable] (Внешний ключ)
+       [dbo].[FK_Booking_ToTable_1] (Внешний ключ)
+       [dbo].[FK_Booking_ToTable_2] (Внешний ключ)
+       [dbo].[FK_Rooms_ToTable] (Внешний ключ)
+       [dbo].[FK_Rooms_ToTable_1] (Внешний ключ)
+       [dbo].[AdditionalServicesInsert] (Процедура)
+       [dbo].[AdditionalServicesUpdate] (Процедура)
+       [dbo].[BookingInsert] (Процедура)
+       [dbo].[BookingUpdate] (Процедура)
+       [dbo].[CategoryInsert] (Процедура)
+       [dbo].[CategoryUpdate] (Процедура)
+       [dbo].[ClientInsert] (Процедура)
+       [dbo].[ClienttUpdate] (Процедура)
+       [dbo].[HotelNumberInsert] (Процедура)
+       [dbo].[HotelNumberUpdate] (Процедура)
+       [dbo].[PaymentInsert] (Процедура)
+       [dbo].[PaymentUpdate] (Процедура)
+
+** Корректирующие действия
